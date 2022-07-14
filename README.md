@@ -1,1 +1,3 @@
-# node-static-asset-server
+# Setup
+## npm install
+## node app.js
