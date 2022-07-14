@@ -1,0 +1,1 @@
+# node-static-asset-server
